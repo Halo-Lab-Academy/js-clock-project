@@ -15,9 +15,9 @@ body {
     position: absolute;
     top: 90%;
     left: 50%;
-    transform: translate(-50%, -20%);
+    transform: translate(-30%, -20%);
     font-size: 2rem;
     color: #fff;
   }
 
-/* Just testing out git reset and revert in today's class*/
+/* Just testing out git reset and revert */
